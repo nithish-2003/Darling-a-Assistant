@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Darling",
+  "description": "Your AI-powered personal procurement assistant.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
